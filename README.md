@@ -1,5 +1,5 @@
 ### Tools that make me happy
-* snakemake / uv / tmux / ssage (ShellSage)
+* snakemake / uv / tmux
 * [llm](https://github.com/simonw/llm)
 
 ### Tools that make me angry
