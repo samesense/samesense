@@ -1,6 +1,8 @@
 ### Tools that make me happy
-* snakemake / uv / tmux
-* [llm](https://github.com/simonw/llm)
+* snakemake
+* uv
+* tmux
+* codex/claude code
 
 ### Tools that make me angry
 * MS authenticator / forticlient
