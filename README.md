@@ -7,15 +7,6 @@ By night: Neovim tweaks.
 
 ---
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=samesense&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samesense&layout=compact&theme=shadow_green&hide_border=true" /></td>
-  </tr>
-</table>
-
----
-
 ### Tools that make me happy
 * snakemake
 * uv
