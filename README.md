@@ -1,5 +1,3 @@
-### Perry
-
 By day: genomics pipelines, NGS analysis, cloud-scale bioinformatics.
 By night: Neovim tweaks.
 
